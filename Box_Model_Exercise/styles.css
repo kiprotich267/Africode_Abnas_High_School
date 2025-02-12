@@ -1,0 +1,83 @@
+div{
+    background-color: red;
+    width: 200px;
+    height: 100px;  
+}
+.box-one{
+    background-color: lightblue;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+.box-two{
+    background-color: lightgreen;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+.box-three{
+    background-color: lightpink;
+   border-width: 5px;
+   border-style:solid;
+   border-color:purple;
+   margin-bottom: 20px;
+}
+.box-four{
+    background-color: mediumslateblue;
+    border-top: 5px solid blue;
+    border-right: 5px solid green;
+    border-bottom: 5px solid yellow;
+    border-left: 5px solid lightskyblue;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 40px;
+}
+
+
+
+
+.box-five {
+    width: 100%;
+    height: 100%;
+    background-color: lightcoral;
+    padding: 10px; 
+    margin: 15px;  
+    border: 3px solid red;
+}
+.box-six {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    padding: 20px; 
+    margin: 30px;  
+    border: 5px solid blue;
+}
+.box-seven {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(32, 5, 153);
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.box-eight {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(173, 19, 19);
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.box-nine {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    display: inline-block;
+}
